@@ -6,7 +6,7 @@ Virtual Env:
 - Must activate venv enverytime you work on the project: source <env name>/bin/activate
 
 Project Setup:
-- activate dgango once in venv: python -m pip install Django
+- activate dgango once in venv: "python -m pip install Django"
 
 Database Changes:
 - “python manage.py makemigrations” 
